@@ -1,1 +1,1 @@
-# Product-app
+# shop-ease
